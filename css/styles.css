@@ -1,0 +1,483 @@
+header{
+  overflow: hidden;
+  background-color: #118bc0;
+
+}
+
+.logo{
+color: white;
+float: left;
+}
+
+.logo h2{
+  font-weight: lighter;
+  font-size: 18px;
+  float: left;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.logo img{
+float: left;
+background-color: #118bc0;
+padding: 5px;
+height: 27px;
+
+
+}
+
+.login{
+  background-color: #0070A4;
+  float: right;
+  display: inline;
+  padding: 12px;
+
+}
+
+.login a{
+  color: white;
+  text-decoration: none;
+
+}
+
+.websitecontainer{
+background:url(../images/crowd.jpg) blue top center;
+background-repeat: no-repeat;
+padding: 200px 90px;
+}
+
+
+
+.create{
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  font-weight:lighter;
+}
+
+.bestplace{
+  font: 15px;
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.createbutton{
+  background-color: #1E8DD6;
+  padding: 2px;
+  margin: 0 auto;
+
+
+}
+
+
+.createbutton a{
+  text-decoration: none;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight:lighter;
+  color: white;
+  font-size: 18px;
+
+
+}
+
+.arrow{
+  padding: 14px 2px;
+  margin: 0 auto;
+  width: 55px;
+  color: white;
+
+
+
+}
+
+.device{
+  background-color: opaque;
+  width: 300px;
+  margin-top: 200px;
+  overflow: hidden;
+
+
+
+}
+.mobile{
+font-family: open sans, sans-serif;
+font-weight: lighter;
+font-size: 20px;
+color: white;
+
+}
+
+.iOS{
+  font-family: open sans, sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  color: white;
+  display: inline;
+  margin-left: 10px;
+
+
+}
+
+.device img{ float: left;
+  background-color: transparent;
+  padding-top: 20px;
+
+}
+
+
+.voice{
+  background-color: opaque;
+  width: 300px;
+  margin-top: 60px;
+
+
+
+}
+
+.pressed{font-family: open sans, sans-serif;
+font-weight: lighter;
+font-size: 20px;
+color: white;
+
+}
+
+.strong{font-family: open sans, sans-serif;
+font-weight: lighter;
+font-size: 15px;
+color: white;
+
+}
+
+.voice img { float: left;
+  background-color: transparent;
+}
+
+.designs {
+  background-color: opaque;
+  width: 300px;
+  margin-top: 60px;
+
+}
+
+.designs img{ float: left;
+  background-color: transparent;
+
+
+}
+
+.hundreds{font-family: open sans, sans-serif;
+font-weight: lighter;
+font-size: 20px;
+color: white;
+
+}
+
+.unique{font-family: open sans, sans-serif;
+font-weight: lighter;
+font-size: 15px;
+color: white;
+
+
+}
+
+
+.hostingplatform{
+  background-color: #E8F0F5;
+  height: 150px;
+  overflow: hidden;
+}
+
+.easiest{
+  color: #324155;
+  font-family: open sans, sans-serif;
+  font-size: 24px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  padding: 30px 3px;
+
+
+}
+
+.advantages{
+background-color: #d1d3d7;
+padding: 50px 20px;
+display: inline-block;
+
+}
+
+.beautifulsites{
+  background-color: white;
+  margin: auto;0;
+  height: 175px;
+
+
+}
+
+.easy{font-family: open sans, sans-serif;
+font-size: 22px;
+font-weight: lighter;
+text-align: center;
+font-style: normal;
+color: #426277;
+padding: 20px 3px 0px 3px;
+
+
+}
+
+.powerful{font-family: open sans, sans-serif;
+ font-size: 16px;
+ font-weight: lighter;
+ text-align: center;
+ font-style: normal;
+ color: #4F4F4F;
+
+
+}
+
+.account{
+  background-color: white;
+  margin: auto;0;
+  height: 175px;
+  margin-top: 50px;
+
+}
+
+.domain{
+  font-family: open sans, sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #426277;
+  padding: 90px 3px 0px 3px;
+
+}
+
+.configure{
+  font-family: open sans, sans-serif;
+   font-size: 16px;
+   font-weight: lighter;
+   text-align: center;
+   font-style: normal;
+   color: #4F4F4F;
+
+}
+
+.seo{
+  background-color: white;
+  margin: auto;0;
+  height: 175px;
+  margin-top: 50px;
+
+
+}
+
+.search{
+  font-family: open sans, sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #426277;
+  padding: 20px 3px 0px 3px;
+
+}
+
+.optimized{
+  font-family: open sans, sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #4F4F4F;
+
+
+}
+
+
+.liveanswers{
+  background-color: white;
+  margin: auto;0;
+  height: 175px;
+  margin-top: 50px;
+
+
+}
+
+.support{
+  font-family: open sans, sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #426277;
+  padding: 20px 3px 0px 3px;
+
+}
+
+.happiness{
+  font-family: open sans, sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #4F4F4F;
+
+}
+
+
+.plans{
+  background-color: white;
+  margin: auto;0;
+  height: 175px;
+  margin-top: 50px;
+
+
+}
+
+
+
+.premium{
+  font-family: open sans, sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #426277;
+  padding: 20px 0px 0px;
+
+}
+
+.control{
+  font-family: open sans, sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #4F4F4F;
+
+
+}
+
+
+.versatile{
+  background-color: white;
+  margin: auto;0;
+  margin-top: 50px;
+
+
+}
+
+img{
+display: block;
+margin: auto;0;
+background-color:#DDE9F0;
+
+}
+
+
+.millions{
+  font-family: open sans, sans-serif;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #426277;
+  padding: 0px 3px 0px 3px;
+}
+
+
+.welcome{
+  font-family: open sans, sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  font-style: normal;
+  color: #4F4F4F;
+  padding: 20px;
+
+}
+
+.lastcall{
+background-color: #E8F0F5;
+overflow: hidden;
+
+
+
+
+
+}
+
+.createwebsite{
+  background-color: #1E8DD6;
+  width: 240px;
+  margin: auto;0;
+
+
+}
+
+.footer{
+  background-color: black;
+  padding:10px;
+}
+
+.footerlogo{
+  background-color: black;
+  padding: 20px;
+  width: 200px;
+  margin: auto;0;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.powers{
+color: #324155;
+font-size: 24px;
+font-style: normal;
+text-align: center;
+font-weight: lighter;
+padding: 8px 10px 20px;
+
+
+
+
+}
+
+.website{
+color: #324155;
+font-family: open sans, sans-serif;
+text-align: center;
+font-weight:lighter;;
+color: white;
+font-size: 24px;
+padding: 10px;
+}
+
+
+.footer{
+  display: inline block;
+
+
+}
+
+.footer li{
+  display: inline-block;
+  float: left;
+  padding: 15px;
+
+}
+
+.footer a{
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+.footerlogo img{
+  margin: 0 auto;
+text-align: center;
+}
